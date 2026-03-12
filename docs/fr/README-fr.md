@@ -87,7 +87,7 @@ dayjs('2018-05-05').locale('zh-cn').format() // use Chinese Simplified locale in
 
 ### Plugin
 
-Un plugin est un module indépendant qui peut être ajouté à Day.js pour en étendre les fonctionnalités ou en ajouter de nuovelles.
+Un plugin est un module indépendant qui peut être ajouté à Day.js pour en étendre les fonctionnalités ou en ajouter de nouvelles.
 
 ```javascript
 import advancedFormat from 'dayjs/plugin/advancedFormat' // load on demand
